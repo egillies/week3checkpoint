@@ -56,6 +56,7 @@ export class JotsController {
         jotsService.updateJot()
 
         const JotElm = document.getElementById('jot-element')
+
     }
 
     createJot(event) {
